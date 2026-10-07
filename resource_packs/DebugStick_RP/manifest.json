@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Debug Stick RP",
+    "description": "Texture for the custom Debug Stick item",
+    "uuid": "22222222-3333-4444-5555-666666666666",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "bbbbbbbb-cccc-dddd-eeee-ffffffffffff",
+      "version": [1, 0, 0]
+    }
+  ]
+}
